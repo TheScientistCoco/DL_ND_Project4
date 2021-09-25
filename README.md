@@ -1,2 +1,2 @@
 # DL_ND_Project4
-Generate Faces
+Udacity Deep Learning Nanodegree Project 4: Generate Faces
